@@ -1,7 +1,6 @@
 # hello-world-vue3
  
-## scss
+## sass
 ~~~
-cnpm install node-sass --sava-dev
-cnpm install node-sass --sava-dev
+npm install -D sass-loader
 ~~~
