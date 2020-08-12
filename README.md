@@ -5,3 +5,13 @@
 npm install -D sass-loader
 npm install -D sass
 ~~~
+
+## axios
+~~~
+npm install axios
+~~~
+
+## mockjs
+~~~
+npm install -D mockjs
+~~~
