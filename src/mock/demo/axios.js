@@ -1,4 +1,4 @@
-const Mock = require('mockjs')
+import Mock from 'mockjs'
 
 // 模拟数据
 Mock.mock('/mock/demo/axios', 'post', (req) => {
