@@ -1,7 +1,7 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 
-import demoRoutes from './demo'
+import { demoAxios, demoVant } from './demo'
 
 const routes = [
   {
@@ -17,7 +17,8 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
-  demoRoutes
+  demoAxios,
+  demoVant
 ]
 
 const router = createRouter({

@@ -6,6 +6,8 @@
       <router-link to="/about">About</router-link>
       |
       <router-link to="/demo/axios">Axios</router-link>
+      |
+      <router-link to="/demo/vant">Vant</router-link>
     </div>
     <router-view/>
   </div>

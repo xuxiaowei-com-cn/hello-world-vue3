@@ -15,3 +15,8 @@ npm install axios
 ~~~
 npm install -D mockjs
 ~~~
+
+## [vant next](https://vant-contrib.gitee.io/vant/next/#/zh-CN/)
+~~~
+npm i vant@next
+~~~
